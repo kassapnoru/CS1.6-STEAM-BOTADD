@@ -1,0 +1,45 @@
+
+[ Online previews (for easy sharing) ]
+
+Bot Commands (Colour) document
+https://www.docdroid.net/M6uKJDe
+
+Bot Commands document (click Raw)
+https://www.docdroid.net/M6uKJDe/bot-commands-colour-pdf#page=10
+
+Readme document (click Raw)
+https://gist.github.com/sjain882/d0d83add63a696aeb5394df2fd63f5a9
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[ Original sources ]
+
+Original source of this pack (Steam guide)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1725204346
+
+Command menu navmesh editor
+https://gamebanana.com/guis/34522
+
+Custom hand-tuned navmeshes
+https://gamebanana.com/gamefiles/6195
+
+ReGameDLL_CS modification
+https://github.com/s1lentq/ReGameDLL_CS
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[ Other ]
+
+Other console commands added by ReGameDLL_CS
+https://github.com/s1lentq/ReGameDLL_CS/blob/master/README.md#commands
+
+
+
